@@ -8,4 +8,3 @@ statsmodels
 scipy
 scikit-learn
 joblib
-pmdarima

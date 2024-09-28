@@ -9,7 +9,7 @@ def get_data(ticker_symbol, start_date, end_date):
     # Save the stock data to a CSV file
     dataset_path = os.path.join('dataset', f'{ticker_symbol}-stock.csv')
     os.makedirs(os.path.dirname(dataset_path), exist_ok=True)
-    stock_data.to_csv(dataset_path, index=False, header=True)
+    stock_data.to_csv(dataset_path, header=True)
 
     return dataset_path
 
