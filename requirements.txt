@@ -1,0 +1,11 @@
+yfinance
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+statsmodels
+scipy
+scikit-learn
+joblib
+pmdarima
