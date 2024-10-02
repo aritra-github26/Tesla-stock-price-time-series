@@ -1,6 +1,6 @@
 # Tesla Stock Price Prediction
 
-This project aims to predict the stock price of Tesla using historical data collected from the `yfinance` module in Python. The dataset spans from 2014-01-01 to 2024-09-01. The project is divided into five Jupyter notebooks, each focusing on different aspects of data analysis and model training.
+This project aims to predict the stock price of Tesla using historical data collected from the `yfinance` module in Python. The dataset spans from `2014-01-01` to `2024-09-01`. The project is divided into five Jupyter notebooks, each focusing on different aspects of data analysis and model training.
 
 ## Notebooks
 
